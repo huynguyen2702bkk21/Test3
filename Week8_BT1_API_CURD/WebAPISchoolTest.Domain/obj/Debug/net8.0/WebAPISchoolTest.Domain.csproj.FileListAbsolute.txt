@@ -1,0 +1,22 @@
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\bin\Debug\net8.0\WebAPISchoolTest.Domain.deps.json
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\bin\Debug\net8.0\WebAPISchoolTest.Domain.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\bin\Debug\net8.0\WebAPISchoolTest.Domain.pdb
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.AssemblyInfoInputs.cache
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.AssemblyInfo.cs
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.csproj.CoreCompileInputs.cache
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\refint\WebAPISchoolTest.Domain.dll
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.pdb
+D:\CODE\VisualStudio\C#\TRAINING\Week10\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\ref\WebAPISchoolTest.Domain.dll
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\bin\Debug\net8.0\WebAPISchoolTest.Domain.deps.json
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\bin\Debug\net8.0\WebAPISchoolTest.Domain.dll
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\bin\Debug\net8.0\WebAPISchoolTest.Domain.pdb
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.AssemblyInfoInputs.cache
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.AssemblyInfo.cs
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.csproj.CoreCompileInputs.cache
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.dll
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\refint\WebAPISchoolTest.Domain.dll
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\WebAPISchoolTest.Domain.pdb
+D:\ViamLab's Project\C#\Trainning Exercises X\Training Exercises X\Source\Week8_BT1_API_CURD\WebAPISchoolTest.Domain\obj\Debug\net8.0\ref\WebAPISchoolTest.Domain.dll

@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\seedwork\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\seedwork\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\aggregatemodels\\useraggregate\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\aggregatemodels\\useraggregate\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\aggregatemodels\\useraggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\aggregatemodels\\useraggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\aggregatemodels\\teacheraggregate\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\aggregatemodels\\teacheraggregate\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\aggregatemodels\\teacheraggregate\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\aggregatemodels\\teacheraggregate\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\aggregatemodels\\studentaggregate\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\aggregatemodels\\studentaggregate\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\aggregatemodels\\classaggregate\\iclassrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\aggregatemodels\\classaggregate\\iclassrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\aggregatemodels\\classaggregate\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\aggregatemodels\\classaggregate\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C815E0B7-1062-466E-9322-7C279F753D81}|Week8_BT1_API_CURD\\Week8_BT1_API_CURD.API.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\week8_bt1_api_curd\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C815E0B7-1062-466E-9322-7C279F753D81}|Week8_BT1_API_CURD\\Week8_BT1_API_CURD.API.csproj|solutionrelative:week8_bt1_api_curd\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C815E0B7-1062-466E-9322-7C279F753D81}|Week8_BT1_API_CURD\\Week8_BT1_API_CURD.API.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\week8_bt1_api_curd\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C815E0B7-1062-466E-9322-7C279F753D81}|Week8_BT1_API_CURD\\Week8_BT1_API_CURD.API.csproj|solutionrelative:week8_bt1_api_curd\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\aggregatemodels\\studentaggregate\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\aggregatemodels\\studentaggregate\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.infrastructure\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|solutionrelative:webapischooltest.infrastructure\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|solutionrelative:webapischooltest.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.infrastructure\\repositories\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|solutionrelative:webapischooltest.infrastructure\\repositories\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|solutionrelative:webapischooltest.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C815E0B7-1062-466E-9322-7C279F753D81}|Week8_BT1_API_CURD\\Week8_BT1_API_CURD.API.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\week8_bt1_api_curd\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C815E0B7-1062-466E-9322-7C279F753D81}|Week8_BT1_API_CURD\\Week8_BT1_API_CURD.API.csproj|solutionrelative:week8_bt1_api_curd\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.infrastructure\\appliactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|solutionrelative:webapischooltest.infrastructure\\appliactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C815E0B7-1062-466E-9322-7C279F753D81}|Week8_BT1_API_CURD\\Week8_BT1_API_CURD.API.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\week8_bt1_api_curd\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C815E0B7-1062-466E-9322-7C279F753D81}|Week8_BT1_API_CURD\\Week8_BT1_API_CURD.API.csproj|solutionrelative:week8_bt1_api_curd\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B3450-017D-42B3-B3F3-704503D117F9}|WebAPISchoolTest.Domain\\WebAPISchoolTest.Domain.csproj|solutionrelative:webapischooltest.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.infrastructure\\entityconfigurations\\classes\\classentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|solutionrelative:webapischooltest.infrastructure\\entityconfigurations\\classes\\classentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.infrastructure\\entityconfigurations\\teachers\\teacherentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|solutionrelative:webapischooltest.infrastructure\\entityconfigurations\\teachers\\teacherentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.infrastructure\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|solutionrelative:webapischooltest.infrastructure\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.infrastructure\\entityconfigurations\\users\\userentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|solutionrelative:webapischooltest.infrastructure\\entityconfigurations\\users\\userentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|d:\\viamlab\u0027s project\\c#\\trainning exercises x\\training exercises x\\source\\week8_bt1_api_curd\\webapischooltest.infrastructure\\entityconfigurations\\students\\studententitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF2EFD-DEA2-4D49-8511-A3B2BFB8BDC0}|WebAPISchoolTest.Infrastructure\\WebAPISchoolTest.Infrastructure.csproj|solutionrelative:webapischooltest.infrastructure\\entityconfigurations\\students\\studententitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClassRepository.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\ClassAggregate\\IClassRepository.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\AggregateModels\\ClassAggregate\\IClassRepository.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\ClassAggregate\\IClassRepository.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\AggregateModels\\ClassAggregate\\IClassRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:18:33.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\ClassAggregate\\Class.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\AggregateModels\\ClassAggregate\\Class.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\ClassAggregate\\Class.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\AggregateModels\\ClassAggregate\\Class.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:52:34.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\StudentAggregate\\Student.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\AggregateModels\\StudentAggregate\\Student.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\StudentAggregate\\Student.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\AggregateModels\\StudentAggregate\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:51:28.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\StudentAggregate\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\AggregateModels\\StudentAggregate\\IStudentRepository.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\StudentAggregate\\IStudentRepository.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\AggregateModels\\StudentAggregate\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:17:22.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\UserAggregate\\User.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\AggregateModels\\UserAggregate\\User.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\UserAggregate\\User.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\AggregateModels\\UserAggregate\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:56:34.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\TeacherAggregate\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\AggregateModels\\TeacherAggregate\\ITeacherRepository.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\TeacherAggregate\\ITeacherRepository.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\AggregateModels\\TeacherAggregate\\ITeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:09:22.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\TeacherAggregate\\Teacher.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\AggregateModels\\TeacherAggregate\\Teacher.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\TeacherAggregate\\Teacher.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\AggregateModels\\TeacherAggregate\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:10:19.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\SeedWork\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\SeedWork\\IAggregateRoot.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\SeedWork\\IAggregateRoot.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\SeedWork\\IAggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:08:23.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\SeedWork\\IRepository.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\SeedWork\\IRepository.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\SeedWork\\IRepository.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\SeedWork\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:08:24.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\SeedWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\SeedWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\SeedWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\SeedWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:08:26.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\UserAggregate\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\AggregateModels\\UserAggregate\\IAuthRepository.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\AggregateModels\\UserAggregate\\IAuthRepository.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\AggregateModels\\UserAggregate\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:03:47.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\Week8_BT1_API_CURD\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "Week8_BT1_API_CURD\\Controllers\\ClassController.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\Week8_BT1_API_CURD\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "Week8_BT1_API_CURD\\Controllers\\ClassController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:04:45.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\Week8_BT1_API_CURD\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Week8_BT1_API_CURD\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\Week8_BT1_API_CURD\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Week8_BT1_API_CURD\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:07:38.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:57:29.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:07:35.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClassRepository.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\Repositories\\ClassRepository.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Infrastructure\\Repositories\\ClassRepository.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\Repositories\\ClassRepository.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Infrastructure\\Repositories\\ClassRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:07:38.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:07:44.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\Week8_BT1_API_CURD\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Week8_BT1_API_CURD\\Controllers\\TeachersController.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\Week8_BT1_API_CURD\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Week8_BT1_API_CURD\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:04:48.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppliactionDbContext.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\AppliactionDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Infrastructure\\AppliactionDbContext.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\AppliactionDbContext.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Infrastructure\\AppliactionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:57:31.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\Week8_BT1_API_CURD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Week8_BT1_API_CURD\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\Week8_BT1_API_CURD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Week8_BT1_API_CURD\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:04:47.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Domain\\GlobalUsing.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Domain\\GlobalUsing.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Domain\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:08:28.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClassEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Classes\\ClassEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Classes\\ClassEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Classes\\ClassEntityTypeConfiguration.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Classes\\ClassEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:52:31.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Infrastructure\\GlobalUsing.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\GlobalUsing.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Infrastructure\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:55:45.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Users\\UserEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Users\\UserEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Users\\UserEntityTypeConfiguration.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Users\\UserEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:55:19.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeacherEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Teachers\\TeacherEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Teachers\\TeacherEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Teachers\\TeacherEntityTypeConfiguration.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Teachers\\TeacherEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:55:15.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Students\\StudentEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Students\\StudentEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\ViamLab\u0027s Project\\C#\\Trainning Exercises X\\Training Exercises X\\Source\\Week8_BT1_API_CURD\\WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Students\\StudentEntityTypeConfiguration.cs",
+              "RelativeToolTip": "WebAPISchoolTest.Infrastructure\\EntityConfigurations\\Students\\StudentEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:51:31.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
